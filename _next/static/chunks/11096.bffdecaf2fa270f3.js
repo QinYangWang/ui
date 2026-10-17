@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[11096],{11096:(e,a,d)=>{d.r(a),d.d(a,{default:()=>t});var r=d(56230),s=d(70758);function t(){return(0,r.jsx)(s.k,{disabled:!0,children:"Slide to pay (add a card first)"})}}}]);
